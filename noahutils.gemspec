@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "lib/noahutils.rb",
+    "noahutils.gemspec",
     "test/helper.rb",
     "test/test_noahutils.rb"
   ]
